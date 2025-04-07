@@ -1,0 +1,11 @@
+[33mcommit 269f3d6738fd95991f4526c5e975b92f27426a95[m
+Author: mxwlll <maxtobiasen@gmail.com>
+Date:   Sun Apr 6 18:29:28 2025 -0400
+
+    Update .gitignore to exclude node_modules
+
+[33mcommit 5ff7dadb39994f38cb1168a27b2d5708db6508ba[m
+Author: mxwlll <maxtobiasen@gmail.com>
+Date:   Sun Apr 6 18:18:25 2025 -0400
+
+    purchase page stuff
